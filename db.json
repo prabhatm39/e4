@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Jhon",
+      "hospital":"Sakra",
+      "specialisation": "Nephrology",
+      "salary": 2400000
+    }
+  ]
+
+}
